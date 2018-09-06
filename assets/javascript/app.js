@@ -14,7 +14,7 @@ let questions = [{
 },
 {
     ques: "What group became infamous for saying F*ck the police?",
-    ans: ["Fugees", "Migos", "NWA", "G-Unit"],
+    ans: ["Run DMC", "Migos", "NWA", "G-Unit"],
     name: "infamous",
     correct: "NWA",
     divClass: ".infamous"
